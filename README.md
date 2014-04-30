@@ -1,4 +1,5 @@
-TicTacToe Game (Player1 vs Player2)
-===================================
+TicTacToe Game
+==============
 
+Player1 vs Player2
 
